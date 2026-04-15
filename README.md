@@ -2,8 +2,8 @@
 
 <p align="center">
   <b>Azure Cloud Architect → DevOps + ML Architect</b><br/>
-  AZ-104 · AZ-900 · CKA Certified · 8.5 Years Experience<br/>
-  📍 Pune, India &nbsp;|&nbsp; 🎯 Open to: UK · Singapore · Australia · Japan
+  AZ-104 · AZ-900 · CKA Certified · 9 Years Experience<br/>
+  📍 Delhi, India &nbsp;|&nbsp; 🎯 Open to: UK · Singapore · Australia · Japan
 </p>
 
 <p align="center">
